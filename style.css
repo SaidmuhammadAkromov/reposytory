@@ -1,0 +1,10 @@
+.span{
+    margin-right: 50px;
+}
+#container{
+    padding: 25px 0 0 25px;
+}
+.inputs{
+    display: flex;
+    justify-content: space-around;
+}
